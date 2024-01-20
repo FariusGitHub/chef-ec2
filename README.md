@@ -5,14 +5,14 @@
 This blog was inspired with few Infrastructure as Code available on market. <br>
 From below, Chef & Ansible are not ideally aiming for IaC, but still possible.<br>
 
-| Tool           | Purpose                                      | Language   | Configuration Management | Infrastructure as Code | Agent-based | Launch year |
-|----------------|----------------------------------------------|------------|--------------------------|------------------------|-------------|-------------|
-| Terraform      | Infrastructure provisioning and management   | HashiCorp  | Yes                      | Yes                    | No          | 2014        |
-| Ansible        | Configuration management and automation      | Python     | Yes                      | No                     | No          | 2012        |
-| CloudFormation | Infrastructure provisioning and management   | AWS        | Yes                      | Yes                    | No          | 2011        |
-| Chef           | Configuration management and automation      | Ruby       | Yes                      | No                     | Yes         | 2009        |
-| Puppet         | Configuration management and automation      | Ruby       | Yes                      | No                     | Yes         | 2005        |
-| Salt           | Configuration management and automation      | Python     | Yes                      | No                     | Yes         | 2011        |
+| Tool           | Purpose                                      | Language   | Configuration Management | IaC in term of Provision | Agent-based | Launch year |
+|----------------|----------------------------------------------|------------|--------------------------|--------------------------|-------------|-------------|
+| Terraform      | Infrastructure provisioning and management   | HashiCorp  | Yes                      | Yes                      | No          | 2014        |
+| Ansible        | Configuration management and automation      | Python     | Yes                      | No                       | No          | 2012        |
+| CloudFormation | Infrastructure provisioning and management   | AWS        | Yes                      | Yes                      | No          | 2011        |
+| Chef           | Configuration management and automation      | Ruby       | Yes                      | No                       | Yes         | 2009        |
+| Puppet         | Configuration management and automation      | Ruby       | Yes                      | No                       | Yes         | 2005        |
+| Salt           | Configuration management and automation      | Python     | Yes                      | No                       | Yes         | 2011        |
 
 I will introduce some kind of knowledge I learn from [Angelie](https://www.youtube.com/watch?v=04oITjdLtho) from Simplilearn <br>
 and [John Tonello](https://www.youtube.com/watch?v=lqMijB1JIuU) from Progress Chef as their video were amazing for beginners. <br>
